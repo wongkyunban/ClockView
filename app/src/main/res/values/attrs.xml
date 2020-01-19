@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClockView">
+        <attr name="circle_color" format="color"/>
+        <attr name="circle_scale_color" format="color"/>
+        <attr name="sec_point_color" format="color"/>
+        <attr name="sec_point_width" format="dimension"/>
+        <attr name="min_point_color" format="color"/>
+        <attr name="min_point_width" format="dimension"/>
+        <attr name="hour_point_color" format="color"/>
+        <attr name="hour_point_width" format="dimension"/>
+        <attr name="dot_color" format="color"/>
+        <attr name="dot_width" format="dimension"/>
+    </declare-styleable>
+</resources>
